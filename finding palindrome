@@ -1,0 +1,38 @@
+/* SHUBHAM KESHARWANI */
+#include<bits/stdc++.h>
+#define ll long long int
+#define mod 1000000007
+#define fr(a,b) for(ll i=a;i<b;i++)
+#define fast ios_base::sync_with_stdio(false); cin.tie(NULL);cout.tie(NULL);
+#define test ll t; cin>>t; while(t--)
+#define pb push_back
+#define N 1000002
+#define all(x) (x).begin(),(x).end()
+#pragma GCC optimize("Ofast")
+#pragma GCC target("avx,avx2,fma")
+using namespace std;
+bool is_palindrome( string &s)
+{
+	ll n,i;
+	n=s.length();
+	for(i=0;i<n/2;i++)
+	{
+		if(s[i]!=s[n-i-1])
+		return false;
+	}
+	return true;
+}
+int main()
+{
+//test
+{
+string s;
+cin>>s;
+if(is_palindrome(s))
+cout<<"YES";
+else
+cout<<"NO";
+cout<<'\n';
+}
+    return 0;
+}
