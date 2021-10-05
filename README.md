@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shubham kesharwani
 - 👀 I’m interested in competetive programming and web developemnt
 - 🌱 I’m currently learning React/Node-Express/DBMS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Frontend and Backend technolgies
 - 📫 How to reach me contact me through LinkedIn(www.linkedin.com/in/shubham-9586)
 
 <!---
