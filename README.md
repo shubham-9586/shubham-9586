@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shubham kesharwani
 - 👀 I’m interested in competetive programming and web developemnt
-- 🌱 I have good command in React/Node-Express/DBMS
+- 🌱 I have good command in Flutter / Andriod / IOS / React/ Node-Express / SQL / AWS / GCP
 - 💞️ I’m looking to collaborate on Frontend and Backend technolgies
 
 <!---
