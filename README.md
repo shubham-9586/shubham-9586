@@ -1,5 +1,6 @@
 - 👋 Hi, I’m shubham kesharwani
 -I’m interested in competetive programming and have good knowledge of DSA
+-Delivered many end to end projects
 -I have interned at Sharechat, Times Internet, Bik, WeCommit
 -I’m looking to collaborate on software Developer roles.
 
@@ -30,7 +31,7 @@ WECOMMIT SDE Intern Oct 2021 – Dec 2021
 ● Tech Used: React | Redux | Node.js | Express | MongoDb | socket | materialUI | API
 
 
-                          ACHIEVEMENTS
+                         ACHIEVEMENTS
 ● My Team ranked AIR 40 in ACM ICPC Asia kanpur-Regional-2020.
 ● Qualified codejam -2020 for Round 2 conducted by Google.
 ● Secured 335 | 478 | 684 in Google Kickstart 2021 among 15000+ participants.
