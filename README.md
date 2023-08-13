@@ -41,7 +41,7 @@ WECOMMIT SDE Intern Oct 2021 – Dec 2021
 ● Expert on Codeforces (max rating :1822) and 5 star rating on Codechef (max rating: 2077).
 ● Solved 3000+ Data Structures and Algorithms problems on GeeksforGeeks, LeetCode, CodeChef, CodeForces.
 
-Resume : https://bit.ly/ShubhamResume_
+Resume : [https://bit.ly/ShubhamResume_](https://bit.ly/2356myResume)
 LinkedIn: https://www.linkedin.com/in/shubham-9586/
 Mobile: 6387649336
 <!---
